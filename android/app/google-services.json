@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183960028115",
+    "project_id": "tkhelpdesk-34364",
+    "storage_bucket": "tkhelpdesk-34364.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183960028115:android:87f5f1d432885d80c22526",
+        "android_client_info": {
+          "package_name": "com.example.tkhelpdesk_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwuHw3AU84bRR5MRQbTby-Yj3YnYFQnKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
